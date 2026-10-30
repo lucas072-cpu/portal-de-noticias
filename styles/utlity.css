@@ -21,7 +21,7 @@
 .text-xl {
   font: var(--h2);
 }
-.text-3xl {
+.text-lg {
   font: var(--h3);
 }
 

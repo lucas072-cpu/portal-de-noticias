@@ -1,7 +1,7 @@
 # 📰 Tech News — Portal de Notícias
 
 <p align="center">
-  <img alt="Preview do projeto Tech News" src="COLOQUE_O_CAMINHO_OU_LINK_DA_SUA_IMAGEM_AQUI.png" width="100%">
+  <img alt="Preview do projeto Tech News" src="https://github.com/lucas072-cpu/portal-de-noticias/blob/main/assets/image/README.jpg?raw=true" width="100%">
 </p>
 
 ## 💻 Sobre o projeto
@@ -9,10 +9,6 @@
 O **Tech News** é uma página web de um portal de notícias focado em tecnologia (Inteligência Artificial, Blockchain, Hologramas, Realidade Virtual, entre outros).
 
 Este projeto foi desenvolvido com foco no domínio de layouts complexos utilizando **CSS Grid Layout**, variáveis CSS, classes utilitárias e boas práticas de semântica no **HTML5**.
-
-<p align="center">
-  <img alt="IMAGEM DO PROJETO" src="https://github.com/lucas072-cpu/portal-de-noticias/blob/main/assets/image/README.jpg?raw=true">
-</p>
 
 ---
 

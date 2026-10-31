@@ -11,7 +11,7 @@ O **Tech News** é uma página web de um portal de notícias focado em tecnologi
 Este projeto foi desenvolvido com foco no domínio de layouts complexos utilizando **CSS Grid Layout**, variáveis CSS, classes utilitárias e boas práticas de semântica no **HTML5**.
 
 <p align="center">
-  <img alt="IMAGEM DO PROJETO" src="./assets/image/README.jpg">
+  <img alt="IMAGEM DO PROJETO" src="https://github.com/lucas072-cpu/portal-de-noticias/blob/main/assets/image/README.jpg?raw=true">
 </p>
 
 ---
